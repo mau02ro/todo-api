@@ -4,7 +4,8 @@
   "description": "To Do Api",
   "main": "api/index.js",
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "dev": "nodemon api/"
   },
   "repository": {
     "type": "git",
